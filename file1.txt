@@ -1,1 +1,6 @@
 Hello World!
+1.int
+2.float
+3.char
+4.double
+5.void
